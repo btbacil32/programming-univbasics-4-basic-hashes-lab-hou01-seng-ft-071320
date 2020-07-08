@@ -10,6 +10,6 @@ def pioneer
   {:name => "Grace Hopper"}
 end
 
-def id_hash_generator(number)
+def id_hash_generator(451)
   {:id => 451}
 end
